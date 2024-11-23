@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up - EduConnect Jobs</title>
+    <link rel="stylesheet" href="/FRONT-END/styles.css">
+</head>
+<body>
+    <header>
+        <h1>EduConnect Jobs</h1>
+    </header>
+    <main>
+        <h2>Create Your Account</h2>
+        <form action="/signup" method="POST">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            
+            <label for="user_type">Sign Up As:</label>
+            <select id="user_type" name="user_type" required>
+                <option value="student">Student</option>
+                <option value="employer">Employer</option>
+            </select>
+            
+            <button type="submit">Sign Up</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 EduConnect Jobs. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
