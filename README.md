@@ -2,7 +2,7 @@
 EduConnect Jobs is a website that connects undegraduates and employers,mentors for job opportunities and carreer guidance
 #  Features
 Job Matching: Find job opportunities that match your skills and preferences.
-    Career Guidance: Access resources and tips for resume writing, interview preparation, networking strategies, and more.
+Career Guidance: Access resources and tips for resume writing, interview preparation, networking strategies, and more.
 
 #  installattion
 To get started with the application, follow these steps:
