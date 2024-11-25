@@ -9,11 +9,11 @@ To get started with the application, follow these steps:
 
 Clone the repository:
 
-    git clone https://github.com/DevRamona/skillBridgeRwanda.git
-
+    git clone https://github.com/Lenineng/EduConnect-Jobs.git
+    
 Navigate to the project directory:
 
-    cd skillBridgeRwanda
+    cd EduConnect-Jobs 
 
 Install dependencies:
 
