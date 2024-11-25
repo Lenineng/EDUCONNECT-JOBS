@@ -3,12 +3,6 @@ EduConnect Jobs is a website that connects undegraduates and employers,mentors f
 #  Features
 Job Matching: Find job opportunities that match your skills and preferences.
     Career Guidance: Access resources and tips for resume writing, interview preparation, networking strategies, and more.
-#  Technologies Used
-React.js
-    React Router
-    Tailwind CSS
-    JavaScript
-    Installation
 
 #  installattion
 To get started with the application, follow these steps:
